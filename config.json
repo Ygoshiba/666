@@ -1,0 +1,9 @@
+{
+	"ip":"Miraivruh.aternos.me",
+	"port": 14108,
+	"name": "royal bot",
+	"auto-night-skip":"true",
+	"login-enabled":"false",
+	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
+	"login-cmd":"/login (type_ur_pass_here)"
+}
